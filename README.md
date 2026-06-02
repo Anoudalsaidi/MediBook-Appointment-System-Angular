@@ -17,13 +17,13 @@ This project showcases Angular fundamentals, routing, services, component-based 
 
 ## ✨ Features
 
-- 👨‍⚕️ View available doctors
-- 📅 Book appointments online
+- 👨‍⚕️ Browse and view doctor profiles
+- 📅 Schedule appointments online
 - 🔍 Search and filter doctors
-- 📝 Appointment management
-- 📱 Responsive user interface
-- ⚡ Fast and user-friendly experience
-- 🧩 Component-based Angular architecture
+- 📝 Manage appointment bookings
+- 📱 Fully responsive design
+- ⚡ Smooth and user-friendly interface
+- 🧩 Modular Angular component architecture
 
 ---
 
