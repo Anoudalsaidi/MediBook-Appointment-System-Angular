@@ -105,7 +105,7 @@ This project helped strengthen skills in:
 Add project screenshots here:
 
 ```md
-![Home Page](images/home.png)
+![Home Page](https://github.com/Anoudalsaidi/MediBook-Appointment-System-Angular/blob/main/Home-page.png)
 ![Appointment Page](images/appointment.png)
 ```
 
