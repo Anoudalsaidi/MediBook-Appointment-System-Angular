@@ -100,12 +100,14 @@ This project helped strengthen skills in:
 ---
 
 ## 📸 Screenshots
-Home Page
+
+## Home Page
 <p align="center">
   <img src="Home-page.png" width="700">
 </p>
 
-Appoinment Section
+
+## Appoinment Section
 <p align="center">
   <img src="appoinment.png" width="700">
 </p>
