@@ -102,12 +102,13 @@ This project helped strengthen skills in:
 
 ## 📸 Screenshots
 
-Add project screenshots here:
+<p align="center">
+  <img src="Home-page.png" width="700">
+</p>
 
-```md
-![Home Page](https://github.com/Anoudalsaidi/MediBook-Appointment-System-Angular/blob/main/Home-page.png)
-![Appointment Page](https://github.com/Anoudalsaidi/MediBook-Appointment-System-Angular/blob/main/appoinment.png)
-```
+<p align="center">
+  <img src="appoinment.png" width="700">
+</p>
 
 ---
 
