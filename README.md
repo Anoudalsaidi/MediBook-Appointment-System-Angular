@@ -106,7 +106,7 @@ Add project screenshots here:
 
 ```md
 ![Home Page](https://github.com/Anoudalsaidi/MediBook-Appointment-System-Angular/blob/main/Home-page.png)
-![Appointment Page](images/appointment.png)
+![Appointment Page](https://github.com/Anoudalsaidi/MediBook-Appointment-System-Angular/blob/main/appoinment.png)
 ```
 
 ---
