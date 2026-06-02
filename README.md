@@ -8,12 +8,11 @@
 
 ## 📌 Overview
 
-MediBook is a healthcare appointment booking system built with Angular.
+MediBook is a healthcare appointment booking system built with Angular and TypeScript.
 
-The application allows patients to browse doctors, view available appointment slots, and schedule appointments through an intuitive and responsive user interface.
+The application enables patients to browse doctors, view available schedules, and book appointments through a responsive and user-friendly interface.
 
-This project demonstrates modern Angular development practices including component-based architecture, routing, services, form handling, and responsive design.
-
+This project showcases Angular fundamentals, routing, services, component-based architecture, and modern frontend development practices.
 ---
 
 ## ✨ Features
